@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Table from './assets/components/Table';
+import Table from './components/Table';
 
 function App() {
 
